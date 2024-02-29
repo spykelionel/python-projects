@@ -4,4 +4,4 @@
 
 ## Resources:
 
-1. ![File handling in Python](https://www.youtube.com/watch?v=Sx1Hjr67xO0)
+1. [File handling in Python](https://www.youtube.com/watch?v=Sx1Hjr67xO0)
