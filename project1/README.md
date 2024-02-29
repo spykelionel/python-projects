@@ -1,6 +1,6 @@
 # Word Counter
 
-<p>Create a program that counts the number of words, characters, and lines in a text file.</p>
+<p>Create a program that counts the number of words, characters, and lines in a text file. The file name is lorem.txt</p>
 
 ## Resources:
 
